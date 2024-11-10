@@ -5,14 +5,14 @@ import mysql.connector
 import datetime
 
 # Set up API connection details
-API_KEY = "AIzaSyA0huyndJmXmerYM0fW8WpiDng_kpy2vcE"  # Replace with your actual API key
+API_KEY = "YOUR_API"  # Replace with your actual API key
 API_NAME = "youtube"
 API_VERSION = "v3"
 
 # MySQL connection configuration
 mysql_host = "localhost"
 mysql_user = "root"
-mysql_password = "AI@Guvi12345"  # Replace with your MySQL password
+mysql_password = "Password"  # Replace with your MySQL password
 mysql_database = "youtube_data"
 mysql_port = "3306"
 
